@@ -43,7 +43,7 @@ const Main = () => {
         {value >= 0 ? "positive" : "negative"} units.
       </p>
     </div>
-          <div className="cards">
+          {/* <div className="cards">
                       <div className="card">
                           <p>Suggest some good places to go on a trip</p>
                           <img src={assets.compass_icon} alt="" />
@@ -63,7 +63,7 @@ const Main = () => {
                           <p>Improve the readability of the following code</p>
                           <img src={assets.code_icon} alt="" />
                       </div> 
-                  </div>
+                  </div> */}
 
         <div className="main-bottom">
           <div className="search-box">
